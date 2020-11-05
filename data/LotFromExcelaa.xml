@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XLS>
+  <FirstRow Val="2"/>
+  <EndRow Val="200"/>
+  <PrevView Val="Yes"/>
+  <OrderInTree Val="Yes"/>
+  <XlsInput Val="Yes"/>
+  <ApplicationType Val="Excel"/>
+  <!--<ApplicationType Val="WPSET"/>-->
+<!--<Col Val = "X" PropName = "relatedfile"/>-->
+<!--excel�����ļ��У����������ļ�·����ҵ���Ӧ�㲿������?->
+  <ColList>
+    <Col Val = "A" PropName = "Lev" />
+    <Col Val = "E" PropName = "Name" />
+    <Col Val = "J" PropName = "Material" />
+    <Col Val = "D" PropName = "IdentityNo" />
+    <Col Val = "C" PropName = "AssemblyQuantity" />
+    <Col Val = "B" PropName = "AssemblyUnit" />
+  </ColList>
+</XLS>
+
+	
+         
